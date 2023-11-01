@@ -1,0 +1,93 @@
+[
+    {
+        "pName": "Ontario",
+        "abbreviation": "ON",
+        "flag": "./images/ontario.png",
+        "description": "Ontario is a province in east-central Canada that borders the U.S. and the Great Lakes.",
+        "cities": ["Toronto", "Waterloo", "Brampton"]
+    },
+    {
+        "pName": "Quebec",
+        "abbreviation": "QC",
+        "flag": "./images/quebec.png",
+        "description": "Québec City sits on the Saint Lawrence River in Canada's mostly French-speaking Québec province.",
+        "cities": ["Quebec City"]
+    },
+    {
+        "pName": "Saskatchewan",
+        "abbreviation": "SK",
+        "flag": "./images/saskatchewan.png",
+        "description": "Saskatchewan is a Canadian province that borders the United States to the south.",
+        "cities": ["Saskatoon"]
+    },
+    {
+        "pName": "Alberta",
+        "abbreviation": "AB",
+        "flag": "./images/alberta.png",
+        "description": "Alberta is a province in Western Canada. Its landscape encompasses mountains, prairies, desert badlands and vast coniferous forests.",
+        "cities": ["Calgary", "Edmonton", "Banff"]
+    },
+    {
+        "pName": "British Columbia",
+        "abbreviation": "BC",
+        "flag": "./images/BritishColumbia.png",
+        "description": "British Columbia, Canada's westernmost province, is defined by its Pacific coastline and mountain ranges.",
+        "cities": ["Vancouver", "Victoria", "Cranbrook"]
+    },
+    {
+        "pName": "Manitoba",
+        "abbreviation": "MB",
+        "flag": "./images/manitoba.png",
+        "description": "Manitoba is a Canadian province bordered by Ontario to the east and Saskatchewan to the west.",
+        "cities": ["Winnipeg", "Brandon", "Churchill"]
+    },
+    {
+        "pName": "New Brunswick",
+        "abbreviation": "NB",
+        "flag": "./images/newbrunswick.png",
+        "description": "New Brunswick is one of the thirteen provinces and territories of Canada.",
+        "cities": ["Moncton", "Saint John"]
+    },
+    {
+        "pName": "Newfoundland and Labrador",
+        "abbreviation": "NL",
+        "flag": "./images/newfoundland.png",
+        "description": "Newfoundland and Labrador form the most easterly province of Canada.",
+        "cities": ["St. John’s"]
+    },
+    {
+        "pName": "Northwest Territories",
+        "abbreviation": "NT",
+        "flag": "./images/nwterritory.png",
+        "description": "The Northwest Territories of Canada include the regions of Dehcho, North Slave, Sahtu, South Slave, and Inuvik.",
+        "cities": ["Yellowknife"]
+    },
+    {
+        "pName": "Nova Scotia",
+        "abbreviation": "NS",
+        "flag": "./images/novascotia.png",
+        "description": "Nova Scotia is one of the thirteen provinces and territories of Canada.",
+        "cities": ["Halifax"]
+    },
+    {
+        "pName": "Nunavut",
+        "abbreviation": "NU",
+        "flag": "./images/nunavut.png",
+        "description": "Nunavut is a massive, sparsely populated territory of northern Canada, forming most of the Canadian Arctic Archipelago.",
+        "cities": ["Iqaluit"]
+    },
+    {
+        "pName": "Prince Edward Island",
+        "abbreviation": "PE",
+        "flag": "./images/pei.png",
+        "description": "Prince Edward Island is one of eastern Canada's maritime provinces, off New Brunswick and Nova Scotia in the Gulf of St. Lawrence.",
+        "cities": ["Charlottetown"]
+    },
+    {
+        "pName": "Yukon Territory",
+        "abbreviation": "YT",
+        "flag": "./images/yukon.png",
+        "description": "The Yukon, a territory in northwest Canada, is wild, mountainous, and sparsely populated.",
+        "cities": ["Whitehorse"]
+    }
+]

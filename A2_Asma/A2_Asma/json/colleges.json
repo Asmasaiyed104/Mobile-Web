@@ -1,0 +1,50 @@
+[
+  {
+      "city": "Brampton",
+      "college": "Sheridan College",
+      "description": "Sheridan College Institute of Technology and Advanced Learning (formerly Sheridan College of Applied Arts and Technology) is a public polytechnic institute of technology located in the west-Greater Toronto Area in Ontario, Canada.",
+      "courses": ["Technology", "Science", "Arts"]
+  },
+  {
+      "city": "Toronto",
+      "college": "University Of Toronto",
+      "description": "Founded in 1827, the University of Toronto is Canada's top university with a long history of challenging the impossible and transforming society through the ingenuity and resolve of its faculty, students, alumni, and supporters.",
+      "courses": ["Technology", "Science", "Arts"]
+  },
+  {
+      "city": "Calgary",
+      "college": "University Of Calgary",
+      "description": "The University of Calgary (U of C or UCalgary) is a public research university located in Calgary, Alberta, Canada. The University of Calgary started in 1944 as the Calgary branch of the University of Alberta, founded in 1908, prior to being instituted into a separate, autonomous university in 1966.",
+      "courses": ["Technology", "Science", "Arts"]
+  },
+  {
+      "city": "Victoria",
+      "college": "University Of Victoria",
+      "description": "One of Canada's top universities, UVic offers life-changing, hands-on learning experiences to more than 22,000 students on the BC coast. It leads the way in research, creativity, teaching, and learning, with a focus on social fairness so students can align their learning with their values.",
+      "courses": ["Technology", "Science", "Arts"]
+  },
+  {
+      "city": "Brandon",
+      "college": "University Of Brandon",
+      "description": "Brandon University offers undergraduate and graduate degrees through the faculties of Arts, Education, Health Studies, and Science and the School of Music. BU values excellence in teaching and research, with a stimulating, supportive, and personalized learning experience.",
+      "courses": ["Technology", "Science", "Arts"]
+  },
+  {
+      "city": "Saint John",
+      "college": "University Of Saint John",
+      "description": "With more than 100 majors and programs of study, St. John’s University is an exemplary place to explore, discover, and develop your academic interests. If you’re still deciding, apply undeclared and take time to explore your options.",
+      "courses": ["Technology", "Science", "Arts"]
+  },
+  {
+      "city": "Quebec",
+      "college": "McGill University",
+      "description": "Often referred to as “Canada’s Ivy League,” McGill University is one of Canada’s most prestigious institutions and is seen as a leading university across the world. The university prides itself on a diverse student body, with international students comprising nearly 30% of the total population from more than 150 countries. McGill is recognized internationally as a leading research university. It consistently attracts incredibly bright students with the highest entering grade point averages of any in Canada.",
+      "courses": ["Technology", "Science", "Arts"]
+  },
+  {
+      "city": "Saskatoon",
+      "college": "University of Saskatchewan",
+      "description": "The University of Saskatchewan is a Canadian public research university, founded on March 19, 1907, and located on the east side of the South Saskatchewan River in Saskatoon, Saskatchewan, Canada.",
+      "courses": ["Technology", "Science", "Arts"]
+  }
+]

@@ -1,0 +1,146 @@
+[
+    {
+        "cityName": "Toronto",
+        "pName":"Ontario",
+        "abbreviation":"ON",
+        "descriptipn" :"Toronto, city, capital of the province of Ontario, southeastern Canada. It is the most populous city in Canada, a multicultural city, and the country’s financial and commercial centre. Its location on the northwestern shore of Lake Ontario, which forms part of the border between Canada and the United States, and its access to Atlantic shipping via the St. Lawrence Seaway and to major U.S. industrial centres via the Great Lakes have enabled Toronto to become an important international trading centre. Moreover, the city is positioned on the edge of some of the best farmland in Canada, with a climate favourable ...(100 of 6213 words)"
+    },
+    
+        {
+            "cityName": "Waterloo",
+            "pName":"Ontario",
+            "abbreviation":"ON",
+            "descriptipn" :"Waterloo, city, regional municipality of Waterloo, southeastern Ontario, Canada. Its settlement dates from the early 1800s, when a group of Pennsylvania Mennonites led by Abraham Erb settled along the Grand River. The community was named for the Battle of Waterloo (1815). Part of the Kitchener-Cambridge-Waterloo metropolitan complex, Waterloo is the headquarters of several national insurance companies and has diversified industries. The University of Waterloo (1957) and the Wilfrid Laurier University (1911) are there. Inc. village, 1857; town, 1876; city, 1948. Pop. (2006) 97,475; Kitchener-Cambridge-Waterloo metro. area, 451,235; (2011) 98,780; Kitchener-Cambridge-Waterloo metro. area, 477,160."
+        },
+
+        {
+        "cityName": "Brampton,",
+        "pName":"Ontario",
+        "abbreviation":"ON",
+        "descriptipn" :"Brampton, city, regional municipality of Peel, southeastern Ontario, Canada, located on Etobicoke Creek, just west of Toronto. Brampton, founded about 1830, was named after the English birthplace of John Elliott, one of its founders. During the city’s development, horticulture, tanning, and paper production were key elements in the local economy. Modern industries include retail and business services, food and beverage distribution, brick making, and the manufacturing of automobiles, aerospace technology, and telecommunications equipment."
+    },
+    
+    {
+        "cityName": "Calgary,",
+        "pName":"Alberta",
+        "abbreviation":"AB",
+        "descriptipn" :"Calgary, city, southern Alberta, Canada. The physical setting of Calgary distinguishes it from other cities of the Prairie Provinces. It is situated on the western edge of the Great Plains, in the foothills of the spectacular Canadian Rockies (about 60 miles [100 km] to the west), and the surrounding valleys and uplands are a distinct change from the flat prairie landscapes typical of the region. A relatively young Canadian city, it is the administrative and financial headquarters of the country’s petroleum industry. Calgary also celebrates its history as a cattle-ranching capital, an image enhanced by the city’s hosting of the annual Calgary Stampede, a 10-day rodeo-centred event. In the early 21st century, Calgary was one of the fastest-growing cities in Canada. Area 319 square miles (825 square km); metro. area, 1,972 square miles (5,108 square km). Pop. (2011) 1,096,833; metro. area, 1,214,839; (2021) 1,306,784; metro. area, 1,392,609."
+    },
+    {
+        "cityName": "Edmonton,",
+        "pName":"Alberta",
+        "abbreviation":"AB",
+        "descriptipn" :"Edmonton, city, capital of Alberta, Canada. It lies along the North Saskatchewan River in the centre of the province, 185 miles (300 km) north of Calgary. Transportation has been the cornerstone of the settlement and development of Edmonton. The North Saskatchewan River was a major conduit for the historic fur trade, which established trading posts near what is now Edmonton. The advent in the early 1900s of railways and later of roads, oil and gas pipelines, and an international airport transformed the city into a transportation centre known as the “Gateway to the North.” It is the service and supply centre for the oil industry as well as the petrochemical centre for western Canada. Area 264 square miles (684 square km); metro. area, 3,640 square miles (9,427 square km). Pop. (2011) 812,201; metro. area, 1,159,869; (2021) 1,010,899; metro. area, 1,418,118"
+    },
+    {
+        "cityName": "Banff",
+        "pName":"Alberta",
+        "abbreviation":"AB",
+        "descriptipn" :"Banff, town, southwestern Alberta, Canada. Banff lies along the glacial-green Bow River, about 36 miles (58 km) southeast of scenic Lake Louise and some 80 miles (130 km) west of Calgary. The town is within the boundaries of Banff National Park in the Canadian Rocky Mountains, of which it is the headquarters. Named by Lord Strathcona for the Scottish royal burgh of Banff, the settlement developed as a resort after the arrival (1883) of the Canadian Pacific Railway and the establishment (1887) of Banff National Park. Situated along the Trans-Canada Highway (which connects the town to Lake Louise and Calgary), it is a year-round tourist, recreation, and convention centre with hot sulfur springs, skiing facilities, a school of fine arts, and museums. Of note is the Whyte Museum of the Canadian Rockies with an extensive regional archive. Facilities for tourists and other visitors have expanded greatly since 1990, when Banff, which previously had been administered by the national park authorities, became a self-governing municipality. In the early 21st century, growth pressures sometimes created conflict between commercial interests and the conservation objectives of the national park. Pop. (2006) 6,700; (2011) 7,584."
+    },
+    {
+        "cityName": "Victoria",
+        "pName":"British Columbia",
+        "abbreviation":"BC",
+        "descriptipn" :"Victoria, city, capital of British Columbia, Canada, located on the southern tip of Vancouver Island between the Juan de Fuca and Haro straits, approximately 60 miles (100 km) south-southwest of the province’s largest city, Vancouver. Victoria is the largest urban area on the island. It has the mildest winter climate of any city in Canada, and its many parks and green spaces have inspired its description as a “garden city.” Above all, Victoria is a city whose British heritage and colonial past can be seen clearly in its architecture, gardens, museums, urban squares, place-names, and English-style pubs. Area city, 8 square miles (20 square km); metro. area, 269 square miles (696 square km). Pop. (2011) city, 80,017; metro. area, 344,580; (2016) city, 85,792; metro. area, 367,770."
+    },
+    {
+        "cityName": "Vancouver",
+        "pName":"British Columbia",
+        "abbreviation":"BC",
+        "descriptipn" :"Vancouver, city, southwestern British Columbia, Canada. It is the major urban centre of western Canada and the focus of one of the country’s most populous metropolitan regions. Vancouver lies between Burrard Inlet (an arm of the Strait of Georgia) to the north and the Fraser River delta to the south, opposite Vancouver Island. The city is just north of the U.S. state of Washington. It has a fine natural harbour on a superb site facing the sea and mountains. Pop. (2011) 603,502; metro. area, 2,313,328; (2021) 662,248; metro. area, 2,642,825."
+    },
+    {
+        "cityName": "Cranbrook",
+        "pName":"British Columbia",
+        "abbreviation":"BC",
+        "descriptipn" :"Cranbrook, city, southeastern corner of British Columbia, Canada. It lies in the Kootenay River valley on the western edge of the Rocky Mountain Trench. The region was first settled about 1863 by gold prospectors. Cranbrook was probably named for a town near the farm home in Kent, England, of one of the settlers, Colonel James Baker. The Canadian Pacific Railroad’s Crowsnest branchline reached the site in 1898. Now a highway and railway junction and a service centre for ranchers, farmers, lumbermen, and miners, the city is the principal administrative headquarters for East Kootenay district. Its economy is based on forest ...(100 of 141 words)"
+    },
+    {
+        "cityName": "Brandon",
+        "pName":"Manitoba",
+        "abbreviation":"MN",
+        "descriptipn" :"Brandon, city, southwestern Manitoba, Canada, lying on the Assiniboine River, 131 miles (211 km) west of Winnipeg. It was first settled in the late 1870s and was formally founded after the arrival of the Canadian Pacific Railway (1881) near the last of three Hudson’s Bay Company trading posts at this location. The last post, called Brandon House (1793–1832), had been named for Douglas, duke of Brandon. Located on the Trans-Canada Highway and two transcontinental railroads, the city is an important transportation and regional service centre. Known as the “Wheat City of Canada,” it processes flour, meat, fertilizers, chemicals, and petroleum products and also provides regional arts and cultural facilities. Brandon is the site of Brandon University (1899), Assiniboine Community College, and a federal agricultural research station. It is a tourist hub for Riding Mountain National Park to the north, Spruce Woods Provincial Park to the southeast, and Turtle Mountain Provincial Park (and the International Peace Garden, partly in the United States) to the south. Brandon is the home of the Provincial Exhibition of Manitoba, which is made up of the Royal Manitoba Winter Fair, the Manitoba Summer Fair, and the Manitoba Livestock Expo. Inc. 1882. Pop. (2006) 41,511; (2011) 46,061."
+    },
+    {
+        "cityName": "Winnipeg",
+        "pName":"Manitoba",
+        "abbreviation":"MN",
+        "descriptipn" :"Winnipeg, city, capital (1870) of Manitoba, Canada. It lies at the confluence of the Red and Assiniboine rivers, 40 miles (65 km) southwest of Lake Winnipeg and 60 miles (95 km) north of the U.S. state of Minnesota. Winnipeg is the economic and cultural centre of Manitoba and is at the heart of the most populous metropolitan area in central Canada."
+    },
+    {
+        "cityName": "Churchill",
+        "pName":"Manitoba",
+        "abbreviation":"MN",
+        "descriptipn" :"Churchill, northernmost seaport of Canada, in northeastern Manitoba. It lies on the west coast of Hudson Bay at the mouth of the Churchill River. It was named for John Churchill, 1st duke of Marlborough, governor of the Hudson’s Bay Company (1685–91). The company’s original wooden Fort Churchill was built on the site in 1688 and burned in 1689, and it was eventually superseded (1731–71) by Fort Prince of Wales, which is now partially restored as a national historical site. The community was founded in 1931 at the terminus of the Hudson Bay Railway, running from The Pas (550 miles [885 km southwest]). The Churchill Rocket Research Range is a launching site for sounding rockets studying auroras. The Inuit community of Akudlik was established nearby in 1955. The presence of polar bears and beluga whales makes Churchill a tourist attraction, but the community is not easily accessible by road or rail. Pop. (2006) 923; (2011) 813."
+    },
+    {
+        "cityName": "Saint John",
+        "pName":"New Brunswick",
+        "abbreviation":"NB",
+        "descriptipn" :"Saint John, second most populous city in New Brunswick, Canada, situated on the Bay of Fundy at the mouth of the St. John River.The site, visited by the French explorer Samuel de Champlain in 1604 and fortified by Charles La Tour (1631–35), was occupied by the British in 1758 and refortified as Fort Frederick. The latter was destroyed by American revolutionaries in 1775 but was replaced by Fort Howe (1777–78), whose blockhouse has since been reconstructed. The settlement developed after 1783, when loyalists established Parr Town and Carleton around the harbour. In 1785 the two communities amalgamated as Saint John (after the river) to become Canada’s first incorporated city. Benedict Arnold, the American Revolutionary traitor, lived there (1787–91). During the War of 1812, Martello Tower was built on Lancaster Heights for harbour defense; it is now a national historic site."
+    },
+    
+    {
+        "cityName": "Moncton",
+        "pName":"New Brunswick",
+        "abbreviation":"NB",
+        "descriptipn" :"Moncton, city and port, Westmorland county, southeastern New Brunswick, Canada. It lies 25 miles (40 km) from the mouth of the Petitcodiac River. Moncton is the largest city in the province."
+    },
+    {
+        "cityName": "St. John’s",
+        "pName":"Newfoundland and Labrador",
+        "abbreviation":"NL",
+        "descriptipn" :"St. John’s, capital and largest city of Newfoundland, Newfoundland and Labrador, Canada, at the eastern end of the Avalon Peninsula. It stands on the steep, western slope of an excellent landlocked harbour that opens suddenly to the Atlantic. The entrance, known as the Narrows, guarded by Signal Hill (500 feet [150 metres]) and South Side Hills (620 feet [190 metres]), is about 1,400 feet (425 metres) wide, narrowing to 600 feet (185 metres) between Pancake and Chain rocks. It was probably visited in 1497 by John Cabot on the Feast Day of St. John the Baptist and was early used as a haven for fishing vessels. In 1583 a marker was placed on the shore by Sir Humphrey Gilbert claiming possession of Newfoundland for England, but permanent settlement was not made until the early 17th century. St. John’s prospered as a fishing port, despite frequent attacks by the French and disastrous fires in 1816–17, 1846, and 1892.."
+    },
+    
+    {
+        "cityName": "Yellowknife",
+        "pName":"Northwest Territories",
+        "abbreviation":"NW",
+        "descriptipn" :"Yellowknife, city and capital (since 1967) of Northwest Territories, northwestern Canada. It lies on the north shore of Great Slave Lake, 5 miles (8 km) south of the mouth of the Yellowknife River."
+
+    
+    },
+    
+    {
+        "cityName": "Iqaluit",
+        "pName":"Nunavut",
+        "abbreviation":"NU",
+        "descriptipn" :"Iqaluit, formerly Frobisher Bay, city, capital of Nunavut territory and headquarters of Baffin region, Canada. It lies at the head of Frobisher Bay, on southeastern Baffin Island. Iqaluit is the largest community in the eastern Canadian Arctic."
+
+    
+    },
+    
+    {
+        "cityName": "Charlottetown",
+        "pName":"Prince Edward Island",
+        "abbreviation":"PE",
+        "descriptipn" :"Charlottetown, city, seat of Queens county and capital (1765) of Prince Edward Island, Canada. It is located on Hillsborough Bay, an arm of Northumberland Strait, at the mouths of the Elliot (west), North, and Hillsborough rivers. Originating in the 1720s as a French settlement called Port la Joie (the site of which is now within Fort Amherst National Historic Park), it was renamed in honour of Queen Charlotte, wife of George III, after the island passed to Britain in 1763. Charlottetown, with its excellent deepwater harbour and airport, is the commercial centre of the province. Economic activities centre mainly around tourism, government business, fisheries, and agriculture (chiefly dairying, meat packing, and potato growing)."
+
+    },
+    {
+        "cityName": "Quebec",
+        "pName":"Quebec",
+        "abbreviation":"QC",
+        "descriptipn" :"Quebec, French Québec, eastern province of Canada. Constituting nearly one-sixth of Canada’s total land area, Quebec is the largest of Canada’s 10 provinces in area and is second only to Ontario in population. Its capital, Quebec city, is the oldest city in Canada. The name Quebec, first bestowed on the city in 1608 and derived from an Algonquian word meaning “where the river narrows,” beckons visitors to the city’s splendid view of the majestic St. Lawrence River and the pastoral Orleans Island. The province’s major metropolis, Montreal (Montréal), encompassing Montreal Island, Jesus Island to the north, and several communities on ...(100 of 11024 words)"
+
+    },
+    {
+        "cityName": "Saskatoon",
+        "pName":"Saskatchewan",
+        "abbreviation":"SK",
+        "descriptipn" :"Saskatoon, city, south-central Saskatchewan, Canada, on the South Saskatchewan River. It was founded in 1883 as the proposed capital of a temperance colony, and its name was derived from Mis-sask-quah-toomina, a Cree word for a local edible red berry. Following the arrival of the railroad from Regina (161 miles [259 km] southeast) in 1890 and its amalgamation with two adjoining settlements (1906), Saskatoon experienced rapid growth. As Saskatchewan’s most populous metropolitan area, Saskatoon is a distribution and service centre for an important wheat-, oats-, barley-, rye-, flaxseed-, and canola-growing region. Mining is also a vital part of Saskatoon’s economy, and the area is among the world’s leading producers of uranium and potash. Natural gas and oil extraction and refining have also grown in importance in Saskatchewan and Saskatoon. Other significant industries include food and dairy processing, printing, and the manufacture of wood products, chemicals, clothing, machinery, computer and electronic products, metal, and fabricated metal products. Local industry also benefits from the numerous research facilities located in Saskatoon, including Canadian Light Source, Inc., which carries out synchrotron research. Saskatoon is a major transportation hub (served by both national railroads), is the focus of provincial highways, and has a busy international airport, the Saskatoon John E. Diefenbaker International Airport."
+
+    },
+    {
+        "cityName": "Whitehorse",
+        "pName":"Yukon",
+        "abbreviation":"YT",
+        "descriptipn" :"Whitehorse, city and capital (since 1952) of Yukon, Canada, located on the Yukon (Lewes) River just below Miles Canyon and the former Whitehorse Rapids (now submerged beneath Schwatka Lake, created after 1958 by a hydropower dam). It is the Yukon headquarters of the Royal Canadian Mounted Police and is an important transportation centre on the Alaska Highway, linked by air to major North American cities. It has long been an outfitting base for anglers, big-game hunters, and trappers."
+
+    }  
+    
+    
+
+]
